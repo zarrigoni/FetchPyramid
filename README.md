@@ -9,8 +9,8 @@ banana is a pyramid word because you have 1 'b', 2 'n's, and 3 'a's.
 bandana is not a pyramid word because you have 1 'b' and 1 'd'.
 
 ## Requirements
-Java 14
-Gradle
+* Java 14
+* Gradle
 
 ## Run the tests
 
