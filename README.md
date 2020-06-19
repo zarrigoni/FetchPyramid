@@ -1,4 +1,4 @@
-# Are words pyramid words
+# Are words pyramid words?
 ## Problem Statement:
 Please write a web service that accepts http requests and returns responses based on the following problem statement. You may define the request and response format as you see fit based on the problem statement.
 
