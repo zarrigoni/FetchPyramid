@@ -22,7 +22,7 @@ Mac/Linux
 
 Windows
 
-`./gradlew.bat test`
+`gradlew.bat test`
 
 ## Run the application
 
