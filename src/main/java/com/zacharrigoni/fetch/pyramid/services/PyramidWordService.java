@@ -7,6 +7,14 @@ public class PyramidWordService {
 
     }
 
+    /**
+     * This method identifies the set of characters that make up the word. It then takes that count of unique characters
+     * and figures out the expected Pyramid work length count and compares it with the actual word length to determine
+     * if it is a pyramid word.
+     *
+     * @param word the string of characters we are checking if its a pyramid word
+     * @return if the submitted word is a pyramid word
+     */
     public boolean isPyramidWord(Optional<String> word){
         if (!word.isPresent() || word.get().isEmpty()) {
             return false;
